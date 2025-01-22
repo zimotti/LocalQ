@@ -7,7 +7,7 @@ import json
 from ollama_utils import run_ollama
 
 def main():
-    st.title("My Ollama LLM App")
+    st.title("LocalQ")
 
     # Sidebar: Model choice
     st.sidebar.subheader("Ollama Settings")
