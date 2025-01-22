@@ -55,8 +55,7 @@ python3 -m venv venv source venv/bin/activate
 Start the app with:
 streamlit run app.py
 
-===============================================================
-DOWNLOADING MODELS IN OLLAMA
+======== DOWNLOADING MODELS IN OLLAMA
 To use this app you need to have downloaded at least one model, use the following command:  
 (Change `<model_name>` to the name of the model you want.)
 ollama pull <model_name>
