@@ -11,6 +11,10 @@ This tool is super simple and allows you to perform the following types of analy
 
 Adjust token size and temperature for better results
 
+![Screenshot 2025-01-21 at 9 53 41 PM](https://github.com/user-attachments/assets/c14f9d44-0271-4cd6-b94a-c788132ef58b)
+
+
+
 ======== HOW IT WORKS
 1. Input:
    Upload a CSV file with two columns:
