@@ -1,13 +1,15 @@
 LOCALQ
-A research tool that connects local LLMs to your database to perform safe and quick qualitative analysis.
+A research tool that connects local LLMs to your database (CSV file) to perform safe and quick qualitative analysis of large data set. The qualitive of the analysis will largely depend by the actual local LLM you pick.
 
 ======== FEATURES
 This tool is super simple and allows you to perform the following types of analysis:
-- Sentiment Analysis
-- Emotion Analysis
+- Sentiment Analysis (3 outputs: positive, negative or neutral)
+- Emotion Analysis (actual emotions like love, anger, etc.)
 - Thematic Analysis
-- Manual Thematic Analysis (you pick the themes)
-- Custom Prompt
+- Manual Thematic Analysis (you pick the themes up to 10)
+- Custom Prompt (you write your own prompt, very useful for a variety of things)
+
+Adjust token size and temperature for better results
 
 ======== HOW IT WORKS
 1. Input:
