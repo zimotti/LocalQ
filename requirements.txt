@@ -1,0 +1,1 @@
+*	streamlit: for the UI.*	requests: to make HTTP calls to Ollama's REST API.*	pandas: for handling CSV files and data tables.
